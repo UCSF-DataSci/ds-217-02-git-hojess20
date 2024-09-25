@@ -15,6 +15,9 @@ for x in range(1000):
 		sum_multiples += x
 print(sum_multiples)
 ```
+
+Link to [Official Python website](https://www.python.org)
+
 ## **Introduction**
 Hi! I'm Jessica, a 1st year student in the Health Data Science program. My goal is to become a  healthcare data scientist and work 
 towards bridging data gaps to eliminate healthcare disparities. Through this course, I hope to learn how to utilize data science
